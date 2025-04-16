@@ -13,6 +13,7 @@ This project uses SQL to analyze restaurant customer data, answering key busines
 | `SQL_Queries.sql`           | Contains all SQL queries written to explore and answer the business questions. |
 | `Findings_Document.docx`    | Word document summarizing key insights and data analysis results.          |
 | `Findings_Presentation.pptx`| PowerPoint presentation summarizing the insights and recommendations.       |
+| `Dashboard.jpg`             | Screenshot of dashboard                                                     |
 
 ---
 
