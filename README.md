@@ -14,6 +14,7 @@ This project uses SQL to analyze restaurant customer data, answering key busines
 | `Findings_Document.docx`    | Word document summarizing key insights and data analysis results.          |
 | `Findings_Presentation.pptx`| PowerPoint presentation summarizing the insights and recommendations.       |
 | `Dashboard.jpg`             | Screenshot of dashboard                                                     |
+| `presentation.pdf`          | PDF version of the PowerPoint presentation, summarizing key insights.      |
 
 ---
 
